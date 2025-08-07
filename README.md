@@ -1,4 +1,4 @@
-# smallestSvelteTodo
+# [smallestSvelteTodo](https://smallestsveltetodo.madr.io/)
 The final applet from my [A functional todo applet in Svelte 5, using less than 15 lines of code?](https://madr.blog/posts/a-functional-todo-applet-in-svelte5-using-less-than-15-lines-of-code/) blog post.
 
 ## Usage
